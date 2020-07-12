@@ -23,7 +23,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : i1Suhaib ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Lighting Team `,"https://www.youtube.com/channel/UC4BvSCxFjDUhnuNWdqFF0rw")
+client.user.setGame(`Lighting Team `,"http://twitch.tv/lightining_team")
 client.user.setStatus("dnd")
 });
 
